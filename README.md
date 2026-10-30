@@ -14,6 +14,22 @@ Os exercícios e projetos serão adicionados conforme forem concluídos e revisa
 
 Cada atividade poderá conter uma breve explicação do objetivo, o código-fonte e instruções de execução quando necessárias.
 
+## Exercícios concluídos
+
+### 01 — Sistema de boas-vindas
+
+**Pasta:** [01-fundamentos](01-fundamentos/)  
+**Código:** [01-boas-vindas.cs](01-fundamentos/01-boas-vindas.cs)  
+**Status:** desenvolvido, revisado e executado com sucesso.
+
+**Objetivo:** criar um programa de console que exiba uma mensagem inicial, pergunte o nome da pessoa e apresente uma saudação personalizada.
+
+**Conceitos praticados:** estrutura básica de C#, método `Main`, variável `string`, `Console.WriteLine`, `Console.ReadLine` e concatenação de textos.
+
+**Resultado da execução:**
+
+![Captura de tela do exercício de boas-vindas executado](01-fundamentos/01-boas-vindas.png)
+
 ## Sobre os estudos
 
 Este é um espaço de aprendizado contínuo. Os códigos podem ser aprimorados ao longo do tempo, e a documentação indicará quando um exercício não tiver sido testado em um ambiente de execução.
@@ -22,4 +38,4 @@ O aprendizado é desenvolvido com apoio de ferramentas de estudo e orientação,
 
 ---
 
-**Status:** repositório iniciado; exercícios serão publicados conforme avançarem os estudos.
+**Status:** primeiro exercício concluído e publicado; novos exercícios serão adicionados conforme avançarem os estudos.
