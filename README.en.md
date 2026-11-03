@@ -48,6 +48,22 @@ Each activity may include a short explanation of its goal, source code, and exec
 |---|---|---|
 | [View code](01-fundamentos/02-cadastro-funcionario.cs) | [View execution screenshot](01-fundamentos/resultados/02-cadastro-funcionario.png) | Tested |
 
+### 03 — Employee performance evaluation
+
+**Folder:** [01-fundamentos](01-fundamentos/)  
+**Code:** [03-avaliacao-desempenho.cs](01-fundamentos/03-avaliacao-desempenho.cs)  
+**Status:** developed, reviewed, and successfully executed; screenshots awaiting upload to the repository.
+
+**Goal:** read an employee's name and three scores, reject scores outside the 0–10 range, calculate the average, and classify performance.
+
+**Concepts practiced:** `string`, `int`, and `double` variables, `int.Parse`, logical operators `||` and `&&`, comparisons, floating-point division, and `if`, `else if`, and `else` branches.
+
+**Exercise files:**
+
+| Code | Result | Status |
+|---|---|---|
+| [View code](01-fundamentos/03-avaliacao-desempenho.cs) | Execution screenshots pending upload | Tested |
+
 ## About this learning journey
 
 This is an ongoing learning space. Code may be improved over time, and documentation will indicate when an exercise has not been tested in a runtime environment.
@@ -56,4 +72,4 @@ My studies involve learning resources and guidance, including ChatGPT, while kee
 
 ---
 
-**Status:** two exercises completed and published; new exercises will be added as my studies progress.
+**Status:** three exercises completed and published; exercise three screenshots are awaiting upload.
