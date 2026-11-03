@@ -42,7 +42,11 @@ Each activity may include a short explanation of its goal, source code, and exec
 
 **Concepts practiced:** `string`, `int`, and `decimal` variables; input with `Console.ReadLine`; conversion with `int.Parse` and `decimal.Parse`; and displaying results.
 
-**Execution result:** [View screenshot](01-fundamentos/resultados/02-cadastro-funcionario.png).
+**Exercise files:**
+
+| Code | Result | Status |
+|---|---|---|
+| [View code](01-fundamentos/02-cadastro-funcionario.cs) | [View execution screenshot](01-fundamentos/resultados/02-cadastro-funcionario.png) | Tested |
 
 ## About this learning journey
 
