@@ -32,6 +32,18 @@ Cada atividade poderá conter uma breve explicação do objetivo, o código-font
 |---|---|---|
 | [Ver código](01-fundamentos/01-boas-vindas.cs) | [Ver print da execução](01-fundamentos/resultados/01-boas-vindas.png) | Testado |
 
+### 02 — Cadastro de funcionário
+
+**Pasta:** [01-fundamentos](01-fundamentos/)  
+**Código:** [02-cadastro-funcionario.cs](01-fundamentos/02-cadastro-funcionario.cs)  
+**Status:** desenvolvido, revisado e executado com sucesso (entrada de salário com ponto decimal).
+
+**Objetivo:** solicitar nome, idade, cargo e salário de um funcionário e apresentar os dados cadastrados.
+
+**Conceitos praticados:** variáveis `string`, `int` e `decimal`, leitura de dados com `Console.ReadLine`, conversões com `int.Parse` e `decimal.Parse`, e exibição dos resultados.
+
+**Resultado da execução:** print aguardando envio para `01-fundamentos/resultados/02-cadastro-funcionario.png`.
+
 ## Sobre os estudos
 
 Este é um espaço de aprendizado contínuo. Os códigos podem ser aprimorados ao longo do tempo, e a documentação indicará quando um exercício não tiver sido testado em um ambiente de execução.
