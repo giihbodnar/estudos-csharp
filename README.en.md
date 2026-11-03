@@ -52,7 +52,7 @@ Each activity may include a short explanation of its goal, source code, and exec
 
 **Folder:** [01-fundamentos](01-fundamentos/)  
 **Code:** [03-avaliacao-desempenho.cs](01-fundamentos/03-avaliacao-desempenho.cs)  
-**Status:** developed, reviewed, and successfully executed; screenshots awaiting upload to the repository.
+**Status:** developed, reviewed, and successfully executed.
 
 **Goal:** read an employee's name and three scores, reject scores outside the 0–10 range, calculate the average, and classify performance.
 
@@ -62,7 +62,7 @@ Each activity may include a short explanation of its goal, source code, and exec
 
 | Code | Result | Status |
 |---|---|---|
-| [View code](01-fundamentos/03-avaliacao-desempenho.cs) | Execution screenshots pending upload | Tested |
+| [View code](01-fundamentos/03-avaliacao-desempenho.cs) | [Calculated average](01-fundamentos/resultados/03-avaliacao-resultado.png) · [Invalid scores](01-fundamentos/resultados/03-avaliacao-invalida.png) | Tested |
 
 ## About this learning journey
 
@@ -72,4 +72,4 @@ My studies involve learning resources and guidance, including ChatGPT, while kee
 
 ---
 
-**Status:** three exercises completed and published; exercise three screenshots are awaiting upload.
+**Status:** three exercises completed and published, with execution results available.
