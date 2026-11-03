@@ -42,7 +42,7 @@ Cada atividade poderá conter uma breve explicação do objetivo, o código-font
 
 **Conceitos praticados:** variáveis `string`, `int` e `decimal`, leitura de dados com `Console.ReadLine`, conversões com `int.Parse` e `decimal.Parse`, e exibição dos resultados.
 
-**Resultado da execução:** print aguardando envio para `01-fundamentos/resultados/02-cadastro-funcionario.png`.
+**Resultado da execução:** [Ver print](01-fundamentos/resultados/02-cadastro-funcionario.png).
 
 ## Sobre os estudos
 
