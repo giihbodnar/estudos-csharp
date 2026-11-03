@@ -52,7 +52,7 @@ Cada atividade poderá conter uma breve explicação do objetivo, o código-font
 
 **Pasta:** [01-fundamentos](01-fundamentos/)  
 **Código:** [03-avaliacao-desempenho.cs](01-fundamentos/03-avaliacao-desempenho.cs)  
-**Status:** desenvolvido, revisado e executado com sucesso; prints pendentes de envio ao repositório.
+**Status:** desenvolvido, revisado e executado com sucesso.
 
 **Objetivo:** receber o nome e três notas de um funcionário, rejeitar notas fora do intervalo de 0 a 10, calcular a média e classificar o desempenho.
 
@@ -62,7 +62,7 @@ Cada atividade poderá conter uma breve explicação do objetivo, o código-font
 
 | Código | Resultado | Status |
 |---|---|---|
-| [Ver código](01-fundamentos/03-avaliacao-desempenho.cs) | Prints de execução pendentes de upload | Testado |
+| [Ver código](01-fundamentos/03-avaliacao-desempenho.cs) | [Média calculada](01-fundamentos/resultados/03-avaliacao-resultado.png) · [Notas inválidas](01-fundamentos/resultados/03-avaliacao-invalida.png) | Testado |
 
 ## Sobre os estudos
 
@@ -72,4 +72,4 @@ O aprendizado é desenvolvido com apoio de ferramentas de estudo e orientação,
 
 ---
 
-**Status:** três exercícios concluídos e publicados; prints do terceiro exercício aguardam upload.
+**Status:** três exercícios concluídos e publicados, com resultados de execução disponíveis.
