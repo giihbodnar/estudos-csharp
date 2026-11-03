@@ -64,12 +64,6 @@ Each activity may include a short explanation of its goal, source code, and exec
 |---|---|---|
 | [View code](01-fundamentos/03-avaliacao-desempenho.cs) | [Calculated average](01-fundamentos/resultados/03-avaliacao-resultado.png) · [Invalid scores](01-fundamentos/resultados/03-avaliacao-invalida.png) | Tested |
 
-## About this learning journey
-
-This is an ongoing learning space. Code may be improved over time, and documentation will indicate when an exercise has not been tested in a runtime environment.
-
-My studies involve learning resources and guidance, including ChatGPT, while keeping the focus on my understanding and active participation in building the exercises.
-
 ---
 
 **Status:** three exercises completed and published, with execution results available.
