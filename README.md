@@ -26,9 +26,11 @@ Cada atividade poderá conter uma breve explicação do objetivo, o código-font
 
 **Conceitos praticados:** estrutura básica de C#, método `Main`, variável `string`, `Console.WriteLine`, `Console.ReadLine` e concatenação de textos.
 
-**Resultado da execução:**
+**Arquivos do exercício:**
 
-![Captura de tela do exercício de boas-vindas executado](01-fundamentos/01-boas-vindas.png)
+| Código | Resultado | Status |
+|---|---|---|
+| [Ver código](01-fundamentos/01-boas-vindas.cs) | [Ver print da execução](01-fundamentos/resultados/01-boas-vindas.png) | Testado |
 
 ## Sobre os estudos
 
