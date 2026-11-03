@@ -52,4 +52,4 @@ O aprendizado é desenvolvido com apoio de ferramentas de estudo e orientação,
 
 ---
 
-**Status:** primeiro exercício concluído e publicado; novos exercícios serão adicionados conforme avançarem os estudos.
+**Status:** dois exercícios concluídos e publicados; novos exercícios serão adicionados conforme avançarem os estudos.
