@@ -64,12 +64,6 @@ Cada atividade poderá conter uma breve explicação do objetivo, o código-font
 |---|---|---|
 | [Ver código](01-fundamentos/03-avaliacao-desempenho.cs) | [Média calculada](01-fundamentos/resultados/03-avaliacao-resultado.png) · [Notas inválidas](01-fundamentos/resultados/03-avaliacao-invalida.png) | Testado |
 
-## Sobre os estudos
-
-Este é um espaço de aprendizado contínuo. Os códigos podem ser aprimorados ao longo do tempo, e a documentação indicará quando um exercício não tiver sido testado em um ambiente de execução.
-
-O aprendizado é desenvolvido com apoio de ferramentas de estudo e orientação, incluindo o ChatGPT, mantendo o foco na minha compreensão e participação ativa na construção dos exercícios.
-
 ---
 
 **Status:** três exercícios concluídos e publicados, com resultados de execução disponíveis.
