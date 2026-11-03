@@ -14,6 +14,36 @@ Exercises and projects will be added as they are completed and reviewed. Topics 
 
 Each activity may include a short explanation of its goal, source code, and execution instructions when needed.
 
+## Completed exercises
+
+### 01 — Welcome system
+
+**Folder:** [01-fundamentos](01-fundamentos/)  
+**Code:** [01-boas-vindas.cs](01-fundamentos/01-boas-vindas.cs)  
+**Status:** developed, reviewed, and successfully executed.
+
+**Goal:** build a console program that displays an initial welcome message, asks for a person's name, and prints a personalized greeting.
+
+**Concepts practiced:** basic C# program structure, the `Main` method, a `string` variable, `Console.WriteLine`, `Console.ReadLine`, and string concatenation.
+
+**Exercise files:**
+
+| Code | Result | Status |
+|---|---|---|
+| [View code](01-fundamentos/01-boas-vindas.cs) | [View execution screenshot](01-fundamentos/resultados/01-boas-vindas.png) | Tested |
+
+### 02 — Employee registration
+
+**Folder:** [01-fundamentos](01-fundamentos/)  
+**Code:** [02-cadastro-funcionario.cs](01-fundamentos/02-cadastro-funcionario.cs)  
+**Status:** developed, reviewed, and successfully executed (salary entered with a decimal point).
+
+**Goal:** request an employee's name, age, job title, and salary, then display the registered information.
+
+**Concepts practiced:** `string`, `int`, and `decimal` variables; input with `Console.ReadLine`; conversion with `int.Parse` and `decimal.Parse`; and displaying results.
+
+**Execution result:** [View screenshot](01-fundamentos/resultados/02-cadastro-funcionario.png).
+
 ## About this learning journey
 
 This is an ongoing learning space. Code may be improved over time, and documentation will indicate when an exercise has not been tested in a runtime environment.
@@ -22,4 +52,4 @@ My studies involve learning resources and guidance, including ChatGPT, while kee
 
 ---
 
-**Status:** repository initialized; exercises will be published as my studies progress.
+**Status:** two exercises completed and published; new exercises will be added as my studies progress.
